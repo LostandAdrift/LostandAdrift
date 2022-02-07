@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LostandAdrift
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and C++.
-- I'll be using this to keep track of my projects. You can reach me at piceno1996@gmail.com
+- I'll be using this to keep track of my projects.
 
 
 
