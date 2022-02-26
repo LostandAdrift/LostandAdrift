@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LostandAdrift
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python.
 - I'll be using this to keep track of my projects.
 
 
