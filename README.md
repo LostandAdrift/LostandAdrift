@@ -12,17 +12,13 @@ A deliberate-practice mathematics platform with structured training, learner pro
 
 [Engineering overview](https://github.com/LostandAdrift/proofanvil-case-study) · [Grading input boundaries](https://github.com/LostandAdrift/proofanvil-case-study/blob/main/case-studies/grading-input-boundaries.md) · [Reliable retries](https://github.com/LostandAdrift/proofanvil-case-study/blob/main/case-studies/reliable-grading-retries.md)
 
-### [Omarchy Sidequest](https://github.com/LostandAdrift/omarchy-sidequest)
+### [WaniKani for Omarchy](https://github.com/LostandAdrift/omarchy-wanikani-case-study)
 
-A native quest journal that helps players remember their next move and choose from their installed Steam games. Public source, a fictional-data demo, and automated checks make the behavior inspectable. The implementation keeps notes local, shares one backend across monitors, and separates choosing a game from launching it.
+A native Japanese-study client I’m building for personal use: lessons, reviews, listening practice, offline study and selection lookup. I direct the study workflow and agent-assisted implementation, with particular attention to preserving saved answers and handling uncertain API submissions.
 
-[Demo and source](https://github.com/LostandAdrift/omarchy-sidequest) · [Delivery notes](https://github.com/LostandAdrift/omarchy-sidequest/blob/main/docs/delivery.md)
+The public case study shows authored demo previews, design decisions and focused test evidence. The app remains a local development project; personal-use and desktop qualification are still in progress.
 
-### [Gentoo Ironroot](https://github.com/LostandAdrift/gentoo-ironroot)
-
-A workstation installer built around deterministic planning, hardware identity checks, and recovery. Its isolated tests demonstrate refusal and failure handling without installing an operating system. Physical installation and native boot outcomes remain unverified.
-
-[Safe demonstration](https://github.com/LostandAdrift/gentoo-ironroot/blob/main/docs/safe-demonstration.md)
+[Case study and demo gallery](https://github.com/LostandAdrift/omarchy-wanikani-case-study)
 
 ## How I work
 
